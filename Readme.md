@@ -1,4 +1,4 @@
-## Prototype
+# Prototype
 
 This Repo contains the prototype for the GSOC project.
 
